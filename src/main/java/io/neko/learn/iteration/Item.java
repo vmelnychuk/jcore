@@ -1,4 +1,4 @@
-package io.neko.learn.model;
+package io.neko.learn.iteration;
 
 public class Item {
     private final String cargo;

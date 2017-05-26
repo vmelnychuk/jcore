@@ -4,3 +4,9 @@
 ## gradle
 .gradle/
 build/
+
+## other
+books/
+.DS_Store
+*.log
+
